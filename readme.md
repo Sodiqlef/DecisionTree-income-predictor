@@ -82,8 +82,6 @@ Top 3 most influential features:
 - `occupation`
 - `education`
 
-![Feature Importance](https://via.placeholder.com/600x200?text=Feature+Importance+Plot)
-
 ---
 
 ## 🧰 Tools & Libraries
